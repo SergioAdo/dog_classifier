@@ -16,6 +16,6 @@ Les images des 10 dernières classes ont été scrapées grâce à l'extension F
 
 ## Accuracy = 86%
 
-Ancienne version [https://dog-detect.onrender.com/] stable
+Ancienne version [https://dog-detect.onrender.com/] stable  
 Nouvelle version (problème déploiement)
 
